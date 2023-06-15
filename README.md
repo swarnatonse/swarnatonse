@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swarnatonse
-- 👀 I’m interested in languages and animals
+- 👀 I’m interested in languages and animals and a little bit of tech
 - 🌱 I’m currently learning cooking and spanish
-- 📫 How to reach me - don't
+- 📫 How to reach me - swarna@tonse.dev
 
 <!---
 swarnatonse/swarnatonse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
