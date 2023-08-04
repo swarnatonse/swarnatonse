@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swarnatonse
 - 👀 I’m interested in languages and animals and a little bit of tech
-- 🌱 I’m currently learning cooking and spanish
+- 🌱 I’m currently learning how to be a positive presence in the tech world. Also, Spanish.
 - 📫 How to reach me - swarna@tonse.dev
 
 <!---
